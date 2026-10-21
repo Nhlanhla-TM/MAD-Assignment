@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pantry_cream">#F6F7F2</color>
+    <color name="pantry_green">#245642</color>
+    <color name="pantry_green_dark">#173D2F</color>
+    <color name="pantry_ink">#1D2922</color>
+    <style name="Theme.PantryWise" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/pantry_green</item>
+        <item name="android:statusBarColor">@color/pantry_green_dark</item>
+        <item name="android:navigationBarColor">@color/pantry_cream</item>
+        <item name="android:windowBackground">@color/pantry_cream</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

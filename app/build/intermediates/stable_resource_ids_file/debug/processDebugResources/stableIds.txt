@@ -1,0 +1,6 @@
+za.co.pantrywise:style/Theme.PantryWise = 0x7f030000
+za.co.pantrywise:drawable/ic_pantrywise = 0x7f020000
+za.co.pantrywise:color/pantry_ink = 0x7f010003
+za.co.pantrywise:color/pantry_green_dark = 0x7f010002
+za.co.pantrywise:color/pantry_green = 0x7f010001
+za.co.pantrywise:color/pantry_cream = 0x7f010000

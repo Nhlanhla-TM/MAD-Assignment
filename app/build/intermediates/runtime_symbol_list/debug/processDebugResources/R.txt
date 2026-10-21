@@ -1,0 +1,6 @@
+int color pantry_cream 0x7f010000
+int color pantry_green 0x7f010001
+int color pantry_green_dark 0x7f010002
+int color pantry_ink 0x7f010003
+int drawable ic_pantrywise 0x7f020000
+int style Theme_PantryWise 0x7f030000

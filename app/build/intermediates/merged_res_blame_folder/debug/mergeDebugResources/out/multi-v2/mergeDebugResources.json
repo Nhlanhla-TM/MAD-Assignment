@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "za.co.pantrywise.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\nhlan\\Downloads\\PantryWise_Assignment\\PantryWise_Android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "525"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "246",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "755"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nhlan\\Downloads\\PantryWise_Assignment\\PantryWise_Android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,1,2,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "115,16,63,162",
+                        "endColumns": "46,46,51,44",
+                        "endOffsets": "157,58,110,202"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,149,201",
+                        "endColumns": "46,46,51,44",
+                        "endOffsets": "97,144,196,241"
+                    }
+                }
+            ]
+        }
+    ]
+}

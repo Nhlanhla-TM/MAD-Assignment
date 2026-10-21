@@ -1,0 +1,7 @@
+#Tue Oct 20 12:18:50 SAST 2026
+base.0=C\:\\Users\\nhlan\\Downloads\\PantryWise_Assignment\\PantryWise_Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\nhlan\\Downloads\\PantryWise_Assignment\\PantryWise_Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+path.0=0/classes.dex
+path.1=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

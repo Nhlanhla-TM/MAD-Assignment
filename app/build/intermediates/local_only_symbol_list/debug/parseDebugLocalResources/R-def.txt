@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+color pantry_cream
+color pantry_green
+color pantry_green_dark
+color pantry_ink
+drawable ic_pantrywise
+style Theme.PantryWise
